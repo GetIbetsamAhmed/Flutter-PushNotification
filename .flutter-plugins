@@ -1,0 +1,6 @@
+# This is a generated file; do not edit or check into version control.
+firebase_core=/usr/local/Caskroom/flutter/2.2.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.20.1/
+firebase_core_web=/usr/local/Caskroom/flutter/2.2.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.7.1/
+firebase_messaging=/usr/local/Caskroom/flutter/2.2.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-12.0.2/
+firebase_messaging_web=/usr/local/Caskroom/flutter/2.2.3/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_web-3.1.1/
+flutter_local_notifications=/usr/local/Caskroom/flutter/2.2.3/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-9.7.1/
